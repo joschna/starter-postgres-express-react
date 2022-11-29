@@ -1,0 +1,7 @@
+build/
+migrations/
+node_modules/
+.env.example
+.env.test
+.gitignore
+README.md
